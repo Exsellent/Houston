@@ -1,0 +1,35 @@
+html {
+    padding-top: 5px;
+    background-image: url(https://html5book.ru/wp-content/uploads/2016/09/background75.jpg);
+}
+
+body {
+    width: 70%;
+    margin: auto;
+    text-align: justify;
+}
+
+h1,
+h2,
+h3 {
+    font-family: sans-serif;
+    margin-top: 1.5em;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 32px;
+    text-align: justify;
+}
+
+table,
+th,
+td {
+    border: 1px double black;
+}
+
+figure {
+    float: right;
+    font-style: italic;
+    width: 15em
+}
